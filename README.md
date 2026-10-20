@@ -3,7 +3,7 @@
 An AI-based decision support system **concept** for child growth monitoring and healthy-lifestyle assistance, designed to help detect **stunting**, **obesity**, and **posture problems** early.
 
 > 🎓 **Final project** (PKM-AI proposal) at **[BINUS University]**, Cyber Security program, 2026.
-> ⚠️ This is a **research proposal and system design**. The repository contains the project write-up and a small demo of one algorithm, not a deployed application.
+> ⚠️ This is a **research proposal and system design**. The repository contains a small demo of one algorithm, not a deployed application.
 
 ## 🎯 Problem
 

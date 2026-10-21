@@ -66,4 +66,4 @@ Python, MediaPipe (optional), linear regression, NLP (tokenization, intent class
 
 ## Team
 
-Developed by a five-member Cyber Security team at BINUS University. *(Add your own role here.)*
+Developed by a five-member Cyber Security team at BINUS University.
